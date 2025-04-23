@@ -16,7 +16,7 @@ Available upon request or via DOI after acceptance.
 Deployment scripts enable full reproduction of experiments on AWS EKS using provided configuration and telemetry traces.
 
 **Dependencies:**  
-Java 17+, Kubernetes 1.27+, Terraform, Helm 3, PostgreSQL, Grafana, and Docker.
+Java 21, Kubernetes 1.27+, Terraform, Helm 3, PostgreSQL, OpenTelemetry, GitHub Actions, Ansible, Prometheus, OpenSearch, Grafana, and Docker.
 
 **License:**  
 Source code is available under the Apache 2.0 License. Data is shared under CC-BY 4.0.

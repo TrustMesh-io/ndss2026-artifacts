@@ -1,7 +1,7 @@
 ## Artifact Availability Statement
 
 **Type of Artifact:**  
-Source code (TLA+, Java/Kotlin), infrastructure templates (Terraform, Helm), datasets (telemetry traces), Docker containers.
+Source code (TLA+, Java/Go/C), infrastructure templates (Terraform, Helm), datasets (telemetry traces), Docker containers.
 
 **Artifact Description:**  
 The artifact includes the formal model, trust score engine, DID-based identity services, evidence pipelines, and reproducibility infrastructure.
